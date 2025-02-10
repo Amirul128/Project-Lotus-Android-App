@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928204729742",
+    "project_id": "project-lotus3",
+    "storage_bucket": "project-lotus3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928204729742:android:baabe5e2180ae234d7c8df",
+        "android_client_info": {
+          "package_name": "com.example.projectlotus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928204729742-mrohfm53sgp9kmp0e8vjicgnft0uhndv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy60EPRjrtIWP0qr9gOwc4tOuYx9ruDmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928204729742-mrohfm53sgp9kmp0e8vjicgnft0uhndv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

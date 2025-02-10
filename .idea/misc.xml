@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/activity_home.xml" value="0.203125" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/activity_registration.xml" value="0.33" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/app_bar_home.xml" value="0.25" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/content_home.xml" value="0.1890625" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/fragment_category.xml" value="0.203125" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/fragment_my_cart.xml" value="0.15" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/fragment_my_orders.xml" value="0.1" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/fragment_new_products.xml" value="0.1" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/fragment_offersk.xml" value="0.1" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/home_cat_items.xml" value="0.25" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/nav_header_home.xml" value="0.25" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/popular_item.xml" value="0.22" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/layout/recommended_item.xml" value="0.14447463768115942" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/menu/home.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectLotus/ProjectLotus/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Forge-15R/Desktop/University Related/Semester 4/Mobile Programming works/ProjectLotus/app/src/main/res/drawable/Copy of account.xml" value="0.2035" />
+        <entry key="..\:/Users/Forge-15R/Desktop/University Related/Semester 4/Mobile Programming works/ProjectLotus/app/src/main/res/drawable/Copy of edittext_background.xml" value="0.3675" />
+        <entry key="..\:/Users/Forge-15R/Desktop/University Related/Semester 4/Mobile Programming works/ProjectLotus/app/src/main/res/drawable/edittext_background.xml" value="0.3675" />
+        <entry key="..\:/Users/Forge-15R/Desktop/University Related/Semester 4/Mobile Programming works/ProjectLotus/app/src/main/res/drawable/Копия Copy of edittext_background.xml" value="0.3675" />
+        <entry key="..\:/Users/Forge-15R/Desktop/University Related/Semester 4/Mobile Programming works/ProjectLotus/app/src/main/res/layout/activity_login.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Forge-15R/Desktop/University Related/Semester 4/Mobile Programming works/ProjectLotus/app/src/main/res/layout/activity_main.xml" value="0.3469387755102041" />
+        <entry key="..\:/Users/Forge-15R/Desktop/University Related/Semester 4/Mobile Programming works/ProjectLotus/app/src/main/res/layout/activity_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Forge-15R/Desktop/University Related/Semester 4/Mobile Programming works/ProjectLotus/app/src/main/res/layout/app_bar_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Forge-15R/Desktop/University Related/Semester 4/Mobile Programming works/ProjectLotus/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Forge-15R/Desktop/University Related/Semester 4/Mobile Programming works/ProjectLotus/app/src/main/res/layout/fragment_gallery.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Forge-15R/Desktop/University Related/Semester 4/Mobile Programming works/ProjectLotus/app/src/main/res/layout/fragment_home.xml" value="0.17831813576494426" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
